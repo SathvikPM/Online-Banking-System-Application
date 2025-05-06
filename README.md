@@ -1,22 +1,24 @@
-# Online-Banking-System-Application
-This is an Online Banking System project designed to provide a secure and user-friendly banking experience. It allows users to register, log in, and perform banking transactions such as deposits and withdrawals while ensuring data security and efficient account management.
+🏦 Online Banking System
+Online Banking System is a web application that provides users with a secure platform to manage their accounts and perform transactions. It enables user authentication, account management, and financial operations, ensuring a seamless banking experience.
 
-✨ Features
+🌟 Features
+👥 User registration and login
 
-🔐 User Registration and Authentication – Secure sign-up and login functionality with encrypted passwords.
+📝 Signup & authentication with encrypted passwords
 
-🧾 View Account Details – Users can check their account balance, account type, and other details.
+💰 Perform transactions
 
-💰 Perform Transactions – ➕ Deposit funds into their account. ➖ Withdraw funds from their account.
+➕ Deposit funds
 
-📜 Transaction History – Users can view a detailed history of all their past transactions.
+➖ Withdraw funds
 
-⚙️ Account Management – Users can update their account information and settings.
+📜 Transaction history – View past transactions
 
-🛡️ Admin Dashboard – Admins can manage user accounts, monitor transactions, and oversee system activity.
+⚙️ Account management – Update account details
 
-🛠️ Technologies Used
+🛡️ Admin dashboard – Manage user accounts & monitor transactions
 
+🔧 Technologies Used
 ☕ Java
 
 🌿 Spring Boot & Spring MVC
@@ -27,14 +29,14 @@ This is an Online Banking System project designed to provide a secure and user-f
 
 🎨 HTML & CSS
 
-🚀 How to Run the Project
+📂 Database Setup ⚙️💾
+The database creation script is not included in the ZIP download. Please download it from the following link: [Database Script] 📥✨
 
-📥 Clone the repository.
+Once downloaded, run the script using your MySQL client or tool to set up the database and tables. 🚀📂
 
-🛠️ Import the project into Eclipse or IntelliJ.
+📥 Installation
+Clone the repository:
 
-🗄️ Configure your database in application.properties.
-
-▶️ Run the project using Spring Boot.
-
-🤝 Feel free to contribute or report any issues!
+bash
+git clone https://github.com/SathvikPM/OnlineBankingSystem.git
+This version matches the Onifoods README style, including the horizontal line after the heading. Let me know if you need any more refinements! 🚀😊
